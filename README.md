@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Postdoctoral Scholar at the [University of California, Berkeley](https://www.berkeley.edu/) working in [Jack Gallant's lab](http://gallantlab.org/). My research currently focuses on clinical applications of the voxelwise modeling framework, and MRI-based biofeedback methods.
+
+I received a PhD in Cognitive Neuroscience at [Dartmouth](http://pbs.dartmouth.edu), working with [Ida Gobbini](http://haxbylab.dartmouth.edu/ppl/ida.html) and [Jim Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html).
+My previous research focused on familiar face perception, using psychophysics and neuroimaging methods (fMRI and MEG) with multivariate techniques (MVPA).
+
+I'm an avid Python user and an enthusiast for open science. In my spare time I enjoy CrossFit, weightlifting, and coffee.
+
 <!--
 **mvdoc/mvdoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
