@@ -1,23 +1,10 @@
-### Hi there 👋
+### Matteo Visconti di Oleggio Castello, Ph.D.
 
-I'm a Postdoctoral Scholar at the [University of California, Berkeley](https://www.berkeley.edu/) working in [Jack Gallant's lab](http://gallantlab.org/). My research currently focuses on applications of the voxelwise modeling framework to clinical research and individual differences.
+I'm a Postdoctoral Scholar at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). 
+I'm interested in how our brains build and represent meaning from the world around us. 
+My current research focuses on how these representations differ between people.
 
-I received a PhD in Cognitive Neuroscience at [Dartmouth](http://pbs.dartmouth.edu), working with [Ida Gobbini](http://haxbylab.dartmouth.edu/ppl/ida.html) and [Jim Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html).
-My previous research focused on familiar face perception, using psychophysics and neuroimaging methods (fMRI and MEG) with multivariate techniques (MVPA).
+To study these questions, I build computational models to predict brain activity when we watch movies, listen to stories, or interact with each other.
+Then I break these models apart, and see if I can learn something interesting about the brain.
 
-I'm an avid Python user and an enthusiast for open science. In my spare time I enjoy CrossFit, weightlifting, and coffee.
-
-<!--
-**mvdoc/mvdoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before coming to Berkeley, I received a Ph.D. in Cognitive Neuroscience at [Dartmouth](http://pbs.dartmouth.edu), working with [Ida Gobbini](http://haxbylab.dartmouth.edu/ppl/ida.html) and [Jim Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html). At Darmouth, I studied how our brains represent the identity of our friends and colleagues. I used psychophysics and fMRI to study familiar face perception.
