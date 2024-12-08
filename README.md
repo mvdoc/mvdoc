@@ -1,6 +1,6 @@
 ### Matteo Visconti di Oleggio Castello, Ph.D.
 
-I'm a Postdoctoral Scholar at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). 
+I'm an Assistant Project Scientist in the Department of Neuroscience at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). 
 I'm interested in how our brains build and represent meaning from the world around us. 
 My current research focuses on how these representations differ between people.
 
