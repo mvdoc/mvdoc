@@ -2,7 +2,7 @@
 
 Cognitive Computational Neuroscientist investigating individual differences in brain function
 
-[Website](https://matteovisconti.com) | [Google Scholar](https://scholar.google.com/citations?user=E4e-JNsAAAAJ) | [LinkedIn](https://www.linkedin.com/in/matteovisconti) | [GitHub](https://github.com/mvdoc)
+[Website](https://matteovisconti.com) | [Google Scholar](https://scholar.google.com/citations?user=E4e-JNsAAAAJ) | [LinkedIn](https://www.linkedin.com/in/matteovisconti)
 
 ---
 
