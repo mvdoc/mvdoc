@@ -6,9 +6,7 @@ Cognitive Computational Neuroscientist investigating individual differences in b
 
 ---
 
-I'm an Assistant Project Scientist in the Department of Neuroscience at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). I'm interested in how our brains build and represent meaning from the world around us, and how these representations differ between people. I build computational models to predict brain activity when we watch movies, listen to stories, or interact with each other — then I break these models apart to learn something interesting about the brain.<br/>
-
-Before Berkeley, I received a Ph.D. in Cognitive Neuroscience at [Dartmouth](http://pbs.dartmouth.edu), working with [Ida Gobbini](http://haxbylab.dartmouth.edu/ppl/ida.html) and [Jim Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html), studying how our brains represent familiar faces.
+I'm an Assistant Project Scientist in the Department of Neuroscience at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). I'm interested in how our brains build and represent meaning from the world around us. My current research focuses on how these representations differ between people. To study these questions, I build computational models to predict brain activity when we watch movies, listen to stories, or interact with each other. Then I break these models apart, and see if I can learn something interesting about the brain. Before coming to Berkeley, I received a Ph.D. in Cognitive Neuroscience at [Dartmouth](http://pbs.dartmouth.edu), working with [Ida Gobbini](https://www.unibo.it/sitoweb/mariaida.gobbini) and [Jim Haxby](https://en.wikipedia.org/wiki/James_V._Haxby). At Dartmouth, I studied how our brains represent the identity of our friends and colleagues. I used psychophysics and fMRI to study familiar face perception.
 
 ### Latest News
 
