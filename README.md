@@ -1,7 +1,10 @@
-<p><pre align="center">
-<strong>Matteo Visconti di Oleggio Castello, Ph.D.</strong>
+### Matteo Visconti di Oleggio Castello, Ph.D.
+
 Cognitive Computational Neuroscientist investigating individual differences in brain function
-<a href="https://matteovisconti.com">Website</a> / <a href="https://scholar.google.com/citations?user=E4e-JNsAAAAJ">Google Scholar</a> / <a href="https://www.linkedin.com/in/matteovisconti">LinkedIn</a> / <a href="https://github.com/mvdoc">GitHub</a></pre></p>
+
+[Website](https://matteovisconti.com) | [Google Scholar](https://scholar.google.com/citations?user=E4e-JNsAAAAJ) | [LinkedIn](https://www.linkedin.com/in/matteovisconti) | [GitHub](https://github.com/mvdoc)
+
+---
 
 I'm an Assistant Project Scientist in the Department of Neuroscience at the [University of California, Berkeley](https://www.berkeley.edu/), working in [Jack Gallant's lab](http://gallantlab.org/). I'm interested in how our brains build and represent meaning from the world around us, and how these representations differ between people. I build computational models to predict brain activity when we watch movies, listen to stories, or interact with each other — then I break these models apart to learn something interesting about the brain.<br/>
 
